@@ -16,3 +16,8 @@ This project is a terminal-based university registration system developed using 
 - Getter and Setter
 - Inheritance
 - Polymorphism
+- ## Project Demo
+
+Watch the project video here:
+
+[Project Video](https://drive.google.com/file/d/1kMzkRybCQDbm1cy4pGS4nidYdHsgaRkf/view?usp=sharing)
